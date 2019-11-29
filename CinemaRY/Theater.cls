@@ -1,0 +1,4 @@
+Class CinemaRY.Theater
+{
+
+}
